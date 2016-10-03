@@ -1,6 +1,8 @@
 # iMess - iMessage API Server
 Node backend for interacting with iMessage on OSX. Built using Node, ExpressJS, and Sqlite.
 
+## For use with [iMess Client](https://github.com/alex-red/imess-client)
+
 # Install
 > Git clone
 
